@@ -1,0 +1,272 @@
+[
+    {
+        "title": "The Notebook",
+        "year": 2004,
+        "rotten_tomatoes_rating": 53,
+        "imdb_rating": 7.8
+    },
+    {
+        "title": "P.S. I Love You",
+        "year": 2007,
+        "rotten_tomatoes_rating": 25,
+        "imdb_rating": 7.0
+    },
+    {
+        "title": "Titanic",
+        "year": 1997,
+        "rotten_tomatoes_rating": 89,
+        "imdb_rating": 7.8
+    },
+    {
+        "title": "Pride and Prejudice",
+        "year": 2005,
+        "rotten_tomatoes_rating": 86,
+        "imdb_rating": 7.8
+    },
+    {
+        "title": "La La Land",
+        "year": 2016,
+        "rotten_tomatoes_rating": 91,
+        "imdb_rating": 8.0
+    },
+    {
+        "title": "A Walk to Remember",
+        "year": 2002,
+        "rotten_tomatoes_rating": 27,
+        "imdb_rating": 7.3
+    },
+    {
+        "title": "Notting Hill",
+        "year": 1999,
+        "rotten_tomatoes_rating": 83,
+        "imdb_rating": 7.2
+    },
+    {
+        "title": "Crazy Rich Asians",
+        "year": 2018,
+        "rotten_tomatoes_rating": 91,
+        "imdb_rating": 6.9
+    },
+    {
+        "title": "The Fault in Our Stars",
+        "year": 2014,
+        "rotten_tomatoes_rating": 81,
+        "imdb_rating": 7.7
+    },
+    {
+        "title": "10 Things I Hate About You",
+        "year": 1999,
+        "rotten_tomatoes_rating": 69,
+        "imdb_rating": 7.3
+    },
+    {
+        "title": "When Harry Met Sally",
+        "year": 1989,
+        "rotten_tomatoes_rating": 91,
+        "imdb_rating": 7.6
+    },
+    {
+        "title": "Pretty Woman",
+        "year": 1990,
+        "rotten_tomatoes_rating": 64,
+        "imdb_rating": 7.1
+    },
+    {
+        "title": "Sleepless in Seattle",
+        "year": 1993,
+        "rotten_tomatoes_rating": 75,
+        "imdb_rating": 6.8
+    },
+    {
+        "title": "Love Actually",
+        "year": 2003,
+        "rotten_tomatoes_rating": 64,
+        "imdb_rating": 7.6
+    },
+    {
+        "title": "The Princess Bride",
+        "year": 1987,
+        "rotten_tomatoes_rating": 97,
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Moulin Rouge!",
+        "year": 2001,
+        "rotten_tomatoes_rating": 76,
+        "imdb_rating": 7.6
+    },
+    {
+        "title": "Romeo + Juliet",
+        "year": 1996,
+        "rotten_tomatoes_rating": 73,
+        "imdb_rating": 6.8
+    },
+    {
+        "title": "The Holiday",
+        "year": 2006,
+        "rotten_tomatoes_rating": 49,
+        "imdb_rating": 6.9
+    },
+    {
+        "title": "Silver Linings Playbook",
+        "year": 2012,
+        "rotten_tomatoes_rating": 92,
+        "imdb_rating": 7.7
+    },
+    {
+        "title": "Before Sunrise",
+        "year": 1995,
+        "rotten_tomatoes_rating": 100,
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Before Sunset",
+        "year": 2004,
+        "rotten_tomatoes_rating": 94,
+        "imdb_rating": 8.1
+    },
+    {
+        "title": "Before Midnight",
+        "year": 2013,
+        "rotten_tomatoes_rating": 98,
+        "imdb_rating": 7.9
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": 2004,
+        "rotten_tomatoes_rating": 92,
+        "imdb_rating": 8.3
+    },
+    {
+        "title": "500 Days of Summer",
+        "year": 2009,
+        "rotten_tomatoes_rating": 85,
+        "imdb_rating": 7.7
+    },
+    {
+        "title": "The Big Sick",
+        "year": 2017,
+        "rotten_tomatoes_rating": 98,
+        "imdb_rating": 7.5
+    },
+    {
+        "title": "To All the Boys I've Loved Before",
+        "year": 2018,
+        "rotten_tomatoes_rating": 96,
+        "imdb_rating": 7.1
+    },
+    {
+        "title": "The Shape of Water",
+        "year": 2017,
+        "rotten_tomatoes_rating": 92,
+        "imdb_rating": 7.3
+    },
+    {
+        "title": "Call Me by Your Name",
+        "year": 2017,
+        "rotten_tomatoes_rating": 94,
+        "imdb_rating": 7.9
+    },
+    {
+        "title": "A Star is Born",
+        "year": 2018,
+        "rotten_tomatoes_rating": 90,
+        "imdb_rating": 7.6
+    },
+    {
+        "title": "Me Before You",
+        "year": 2016,
+        "rotten_tomatoes_rating": 54,
+        "imdb_rating": 7.4
+    },
+    {
+        "title": "The Vow",
+        "year": 2012,
+        "rotten_tomatoes_rating": 31,
+        "imdb_rating": 6.8
+    },
+    {
+        "title": "Dear John",
+        "year": 2010,
+        "rotten_tomatoes_rating": 29,
+        "imdb_rating": 6.3
+    },
+    {
+        "title": "The Time Traveler's Wife",
+        "year": 2009,
+        "rotten_tomatoes_rating": 38,
+        "imdb_rating": 7.1
+    },
+    {
+        "title": "About Time",
+        "year": 2013,
+        "rotten_tomatoes_rating": 69,
+        "imdb_rating": 7.8
+    },
+    {
+        "title": "The Best of Me",
+        "year": 2014,
+        "rotten_tomatoes_rating": 12,
+        "imdb_rating": 6.7
+    },
+    {
+        "title": "The Lucky One",
+        "year": 2012,
+        "rotten_tomatoes_rating": 20,
+        "imdb_rating": 6.5
+    },
+    {
+        "title": "Safe Haven",
+        "year": 2013,
+        "rotten_tomatoes_rating": 13,
+        "imdb_rating": 6.7
+    },
+    {
+        "title": "The Longest Ride",
+        "year": 2015,
+        "rotten_tomatoes_rating": 31,
+        "imdb_rating": 7.1
+    },
+    {
+        "title": "The Spectacular Now",
+        "year": 2013,
+        "rotten_tomatoes_rating": 91,
+        "imdb_rating": 7.1
+    },
+    {
+        "title": "The Perks of Being a Wallflower",
+        "year": 2012,
+        "rotten_tomatoes_rating": 86,
+        "imdb_rating": 7.9
+    },
+    {
+        "title": "The Proposal",
+        "year": 2009,
+        "rotten_tomatoes_rating": 45,
+        "imdb_rating": 6.7
+    },
+    {
+        "title": "Crazy, Stupid, Love.",
+        "year": 2011,
+        "rotten_tomatoes_rating": 79,
+        "imdb_rating": 7.4
+    },
+    {
+        "title": "The Great Gatsby",
+        "year": 2013,
+        "rotten_tomatoes_rating": 48,
+        "imdb_rating": 7.2
+    },
+    {
+        "title": "The Age of Adaline",
+        "year": 2015,
+        "rotten_tomatoes_rating": 55,
+        "imdb_rating": 7.2
+    },
+    {
+        "title": "Midnight in Paris",
+        "year": 2011,
+        "rotten_tomatoes_rating": 93,
+        "imdb_rating": 7.7
+    }
+]
