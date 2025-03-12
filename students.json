@@ -1,0 +1,47 @@
+[
+    {
+        "first_name": "John",
+        "last_name": "Tylor",
+        "street_address": "123 Maple St",
+        "email": "john.tylor@example.com",
+        "age": 25,
+        "birthdate": "1999-01-15",
+        "index_number": 1
+    },
+    {
+        "first_name": "Jane",
+        "last_name": "Tylor",
+        "street_address": "456 Oak St",
+        "email": "jane.tylor@example.com",
+        "age": 30,
+        "birthdate": "1994-02-20",
+        "index_number": 2
+    },
+    {
+        "first_name": "Michael",
+        "last_name": "Tylor",
+        "street_address": "789 Pine St",
+        "email": "michael.tylor@example.com",
+        "age": 35,
+        "birthdate": "1989-03-25",
+        "index_number": 3
+    },
+    {
+        "first_name": "Emily",
+        "last_name": "Tylor",
+        "street_address": "101 Birch St",
+        "email": "emily.tylor@example.com",
+        "age": 28,
+        "birthdate": "1996-04-30",
+        "index_number": 4
+    },
+    {
+        "first_name": "David",
+        "last_name": "Tylor",
+        "street_address": "202 Cedar St",
+        "email": "david.tylor@example.com",
+        "age": 40,
+        "birthdate": "1984-05-05",
+        "index_number": 5
+    }
+]
