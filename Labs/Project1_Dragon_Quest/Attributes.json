@@ -1,0 +1,47 @@
+
+{
+
+"characters": {
+      "Priest": {
+        "HP": 120,
+        "MP": 200,
+        "Attack": 50,
+        "Defense": 70,
+        "Speed": 60,
+        "Magic": 180,
+        "Skills": ["Heal", "Midheal", "Holy Protection", "Multiheal"],
+        "Equipment": ["Staff", "Robe", "Shield"]
+      },
+      "Sage": {
+        "HP": 140,
+        "MP": 220,
+        "Attack": 70,
+        "Defense": 80,
+        "Speed": 75,
+        "Magic": 190,
+        "Skills": ["Boom", "Kaboom", "Heal", "Kazammle"],
+        "Equipment": ["Staff", "Robe", "Cloak"]
+      },
+      "Warrior": {
+        "HP": 200,
+        "MP": 50,
+        "Attack": 150,
+        "Defense": 120,
+        "Speed": 50,
+        "Magic": 30,
+        "Skills": ["Power Slash", "Defensive Stance", "Berserk Rush"],
+        "Equipment": ["Sword", "Armor", "Shield"]
+      },
+      "Thief": {
+        "HP": 130,
+        "MP": 80,
+        "Attack": 90,
+        "Defense": 60,
+        "Speed": 140,
+        "Magic": 50,
+        "Skills": ["Steal", "Evade", "Shadow Strike", "Backstab"],
+        "Equipment": ["Daggers", "Light Armor", "Cloak"]
+      }
+    }
+  }
+  

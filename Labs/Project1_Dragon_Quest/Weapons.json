@@ -1,0 +1,54 @@
+
+    
+    {
+    "weapons": {
+      "Staff": {
+        "Attack": 30,
+        "Magic Boost": 50,
+        "Weight": 5,
+        "Special Effect": "Increases MP regeneration"
+      },
+      "Sword": {
+        "Attack": 100,
+        "Magic Boost": 0,
+        "Weight": 15,
+        "Special Effect": "High critical hit rate"
+      },
+      "Daggers": {
+        "Attack": 60,
+        "Magic Boost": 10,
+        "Weight": 4,
+        "Special Effect": "Increases evasion"
+      },
+      "Shield": {
+        "Attack": 10,
+        "Defense Boost": 40,
+        "Weight": 8,
+        "Special Effect": "Reduces damage taken from magic attacks"
+      },
+      "Robe": {
+        "Defense Boost": 20,
+        "Magic Boost": 30,
+        "Weight": 3,
+        "Special Effect": "Reduces MP consumption"
+      },
+      "Cloak": {
+        "Defense Boost": 15,
+        "Speed Boost": 10,
+        "Weight": 2,
+        "Special Effect": "Increases stealth ability"
+      },
+      "Light Armor": {
+        "Defense Boost": 50,
+        "Speed Boost": 20,
+        "Weight": 7,
+        "Special Effect": "Balanced protection with mobility"
+      },
+      "Armor": {
+        "Defense Boost": 100,
+        "Weight": 20,
+        "Special Effect": "Reduces physical damage taken"
+      }
+    }
+  }
+  
