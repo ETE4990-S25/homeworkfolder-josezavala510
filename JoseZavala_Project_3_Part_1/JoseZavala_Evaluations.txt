@@ -1,0 +1,51 @@
+ETE_4990
+Jose Zavala
+Project 1 Evaluations 
+
+
+Badassatron Game Gorup A
+•	Play-ability (if it does not run this will be a 0)
+9
+•	Readability
+7
+•	Quality
+8
+•	Understanding of Python
+8
+•	Overall
+9
+
+
+
+
+
+
+
+
+
+
+Team BBL Python - Bryan, Brian, Lorenzo  Game Group B
+•	Play-ability (if it does not run this will be a 0)
+8
+•	Readability
+7
+•	Quality
+8
+•	Understanding of Python
+7
+•	Overall
+8
+ 
+
+PyPair - Huynh Gia Phong Tat & Namho Kye  Game Group C
+•	Play-ability (if it does not run this will be a 0)
+9
+•	Readability
+8
+•	Quality
+9
+•	Understanding of Python
+8
+•	Overall
+9
+
